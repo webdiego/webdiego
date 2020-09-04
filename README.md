@@ -7,4 +7,4 @@ Here my beautifull porfolio https://diego-slicecode.dev/
 - 👯 I’m looking to collaborate on JavaScript
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about Css
-- 📫 How to reach me:[Twitter @slicecode] (https://twitter.com/slicecodediego)
+- 📫 How to reach me:[Twitter @slicecode](https://twitter.com/slicecodediego)
