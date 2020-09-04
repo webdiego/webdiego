@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
+Here my beautifull porfolio https://diego-slicecode.dev/
 
 - 🔭 I’m currently working on What Weather want ?
 - 🌱 I’m currently learning JavaScript
