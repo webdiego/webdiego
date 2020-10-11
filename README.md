@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here my beautifull porfolio https://diego-slicecode.dev/
+Here my beautifull portfolio https://diego-slicecode.dev/
 
 - 🔭 I’m currently working to become a better web developer and improve my web design skills
 - 🌱 I’m currently learning JavaScript
