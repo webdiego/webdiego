@@ -7,4 +7,4 @@ Here my beautifull portfolio https://diego-slicecode.dev/
 - 💬 Ask me about Css
 - 📫 How to reach me:[Twitter @slicecode](https://twitter.com/slicecodediego)
 
-<img src="https://github-readme-stats.vercel.app/api?username=webdiego&&show_icons=true&title_color=fff&icon_color=f25f5c&text_color=fdc500&bg_color=50514f ">
+<img src="https://github-readme-stats.vercel.app/api?username=webdiego&&show_icons=true&title_color=00509d&icon_color=f25f5c&text_color=fdc500&bg_color=50514f ">
