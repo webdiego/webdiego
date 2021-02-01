@@ -4,7 +4,7 @@ Here my beautifull portfolio https://diego-slicecode.dev/
 
 - 🔭 I’m working to become a better web developer and improve my web design skills
 - 🌱 I’m currently learning JavaScript
-- 🚧 I'm work on my project called ACQUA💦
+- 🚧 I'm work on my project called MeteoTime🌞
 - 🚀 How to reach me:[Twitter @slicecode](https://twitter.com/slicecodediego)
 
 <img src="https://github-readme-stats.vercel.app/api?username=webdiego&&show_icons=true&title_color=fff&icon_color=f25f5c&text_color=fdc500&bg_color=577590 ">
