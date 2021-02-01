@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Massarini</h1>
 <h3 align="center">An Italian passionate frontend developer from Sydney</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webdiego&label=Profile%20views&color=0e75b6&style=flat" alt="webdiego" /> </p>
-
 
 - 🔭 I’m currently working on **MeteoTime**
 
@@ -34,5 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdiego&show_icons=true&locale=en&layout=compact" alt="webdiego" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=webdiego&show_icons=true&locale=en" alt="webdiego" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=webdiego&show_icons=true&locale=en" alt="webdiego" /></p>
 
