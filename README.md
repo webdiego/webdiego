@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **MeteoTime**
 
-- 🌱 I’m currently learning **Javascript,Blender,Three.js**
+- 🌱 I’m currently learning **Javascript, Typescript, Blender, Three.js**
 
 - 🚀 My Portfolio https://diego-slicecode.dev/
 
