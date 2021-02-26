@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Italy living in Sydney</h3>
 
 
-- 🔭 I’m currently working on **MeteoTime**
-
-- 🌱 I’m currently learning **Javascript, Typescript, Blender, Three.js**
+- 🌱 I’m currently learning **React, Three.js**
 
 - 🚀 My Portfolio https://diego-slicecode.dev/
 
