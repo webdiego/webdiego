@@ -2,15 +2,11 @@
 <h1 align="center">Hi 👋, I'm Diego Massarini</h1>
 <h3 align="center">A passionate frontend developer from Italy living in Sydney</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webdiego&label=Profile%20views&color=0e75b6&style=flat" alt="webdiego" /> </p>
 
 - 🌱 I’m currently learning **React , Typescript and Three.js**
 
 - 👨‍💻 All of my projects are available at [https://diego-slicecode.dev/](https://diego-slicecode.dev/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
