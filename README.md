@@ -8,11 +8,11 @@
 - 👨‍💻 All of my projects are available at [https://diego-slicecode.dev/](https://diego-slicecode.dev/)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" >Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/webdiego" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="webdiego" height="30" width="40" /></a>
-<a href="https://twitter.com/slicecodediego" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="slicecodediego" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/diego-massarini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diego-massarini" height="30" width="40" /></a>
+<a href="https://dev.to/webdiego" target="blank"><img align="center" src="https://img.icons8.com/windows/96/000000/dev.png" alt="webdiego" height="40" width="40" /></a>
+<a href="https://twitter.com/slicecodediego" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="slicecodediego" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/diego-massarini" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="diego-massarini" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
