@@ -3,17 +3,12 @@
 <h3 align="center">A passionate frontend developer from Italy living in Sydney</h3>
 
 
-- 🌱 I’m currently learning **React , Typescript and Three.js**
+- 🌱 I’m currently learning **React , React-Native and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://diego-slicecode.dev/](https://diego-slicecode.dev/)
 
 
-<h3 align="left" >Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/webdiego" target="blank"><img align="center" src="https://img.icons8.com/windows/96/000000/dev.png" alt="webdiego" height="40" width="40" /></a>
-<a href="https://twitter.com/slicecodediego" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="slicecodediego" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/diego-massarini" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="diego-massarini" height="40" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
