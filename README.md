@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Diego Massarini</h1>
-<h3 align="center">A passionate frontend developer from Italy living in Sydney</h3>
+<h3 align="center">A passionate frontend developer from Italy living around the 🌍</h3>
 
 
 - 🌱 I’m currently learning **React , React-Native and Next.js**
