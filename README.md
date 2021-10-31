@@ -27,4 +27,4 @@
 
 <p style="margin-bottom:"40px" "><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdiego&show_icons=true&locale=en&layout=compact" alt="webdiego" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdiego&show_icons=true&locale=en" alt="webdiego" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdiego&" alt="webdiego" /></p>
