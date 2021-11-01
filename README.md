@@ -24,6 +24,6 @@
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
  </p>
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=webdiego&layout=compact&langs_count=10&hide=html">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=webdiego&layout=compact&langs_count=10&hide=html,shell">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdiego&" alt="webdiego" /></p>
                                                                                                 
