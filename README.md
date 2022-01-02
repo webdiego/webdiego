@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi :alien:, I'm Diego Massarini</h1>
 <h3 align="center">A passionate frontend developer from Italy living around the 🌍</h3>
-<p align="center">I’m currently learningReact-Native, Next.js and Ruby on Rails</p>
+<p align="center">I’m currently learning React-Native, Next.js and Ruby on Rails</p>
 
 
 <p align="center">
@@ -12,5 +12,5 @@
 <div >
 <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=webdiego&layout=compact&langs_count=10&hide=html,shell&bg_color=black">
                                                                                              
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=webdiego&theme=ayu-light&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=webdiego&theme=ayu-light&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF)](https://git.io/streak-stats)
   </div>
