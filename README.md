@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi :alien:, I'm Diego Massarini</h1>
-<h3 align="center">A passionate frontend developer from Italy living around the 🌍</h3>
-<p align="center">I’m currently learning React-Native, Next.js and Ruby on Rails</p>
-
+<h3 align="center">Developer from Italy living around the 🌍</h3>
 
 <p align="center">
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/63283003/147886514-931a0dee-edfb-44f8-a21a-0de272770e88.gif">
+  <img width="1000" height="200" src="https://media4.giphy.com/media/8gEQZGdHET5ZXgP4by/giphy.gif?cid=ecf05e47dvg43acg4fpeufe2p2v1swg5yz5n8tdy1wtb50ub&rid=giphy.gif&ct=g">
 </p>
 
 
